@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-15T17:05:22.091Z'
-dateModified: '2015-10-15T17:03:50.976Z'
+datePublished: '2015-10-15T17:05:29.236Z'
+dateModified: '2015-10-15T17:05:24.014Z'
 title: Welcome to Studio Bodoni
 authors: []
 publisher:
