@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-15T17:03:34.725Z'
-dateModified: '2015-10-15T17:02:31.150Z'
+datePublished: '2015-10-15T17:05:22.091Z'
+dateModified: '2015-10-15T17:03:50.976Z'
 title: Welcome to Studio Bodoni
 authors: []
 publisher:
