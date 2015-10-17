@@ -1,6 +1,7 @@
 name: Studio Bodoni
 favicon: null
 layout_spectrum: 0.15499543654732406
+typography_spectrum: 0.6189775133971125
 title: Handcrafted Wooden Creations
 cta:
   domain: null
@@ -15,7 +16,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#c5d3dc'
+    - '#b2875a'
+    - '#865734'
+    - '#050100'
+    - '#717b83'
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
@@ -24,4 +30,3 @@ purpose:
   - name: follow
     item: null
     url: null
-typography_spectrum: 0.6189775133971125
