@@ -1,22 +1,22 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-15T17:05:29.236Z'
-dateModified: '2015-10-15T17:05:24.014Z'
+datePublished: '2015-10-17T12:06:21.704Z'
+dateModified: '2015-10-17T12:06:13.753Z'
 title: Welcome to Studio Bodoni
+sourcePath: _posts/2015-10-15-welcome-to-studio-bodoni.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-15-welcome-to-studio-bodoni.md
-published: true
 url: welcome-to-studio-bodoni/index.html
 _type: Article
 
