@@ -24,8 +24,8 @@ color:
     - '#717b83'
   brandStrength: 0.5
   lightness: 1
-  saturation: 1
-  rhythmicContrast: 0
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose:
   - name: follow
     item: null
